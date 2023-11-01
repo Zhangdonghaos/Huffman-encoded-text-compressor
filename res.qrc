@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/add.png</file>
+        <file>res/delete.png</file>
+        <file>res/to.png</file>
+        <file>res/compress.png</file>
+        <file>compress.txt</file>
+        <file>original.txt</file>
+    </qresource>
+</RCC>
